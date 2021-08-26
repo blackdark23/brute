@@ -86,7 +86,7 @@ print('')
 hp(G + "==============> Let's Start <============")
 print('')
 
-file=open('passwords.txt','r')
+file=open('462223','r')
 
 emil=str(raw_input('Enter Email/Username : ').strip())
 email = emil.lower()
